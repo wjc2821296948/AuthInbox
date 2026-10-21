@@ -19,8 +19,8 @@
   "dependencies": {
     "@cloudflare/workers-oauth-provider": "^0.8.1",
     "@hono/mcp": "^0.1.4",
-    "@modelcontextprotocol/sdk": "^1.17.0",
-    "hono": "^4.9.0",
+    "@modelcontextprotocol/sdk": "^1.32.0",
+    "hono": "^4.13.11",
     "zod": "^3.25.0"
   },
   "devDependencies": {
